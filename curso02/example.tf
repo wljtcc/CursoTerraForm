@@ -1,8 +1,8 @@
 # Configure the Oracle Cloud Infrastructure Classic provider
 provider "opc" {
-  user            = "maurilio.silva@sky.com.br"
-  password        = "Jon@15402018"
-  identity_domain = "602338242"
+  user            = ""
+  password        = ""
+  identity_domain = ""
   endpoint = "https://compute.brcom-central-1.oraclecloud.com"
 }
 
